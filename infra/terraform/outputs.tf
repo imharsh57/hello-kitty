@@ -1,47 +1,47 @@
 
-output "aws_lambda_hello_kitty_harsh_function_function_arn" {
+output "aws_lambda_hello_kitty_harsh_anand_19_function_function_arn" {
   value = module.appcd_477ae9b8-2fbb-5293-b835-eedd87db50b9.function_arn
   sensitive = false
 }
 
 
-output "aws_lambda_hello_kitty_harsh_function_function_name" {
+output "aws_lambda_hello_kitty_harsh_anand_19_function_function_name" {
   value = module.appcd_477ae9b8-2fbb-5293-b835-eedd87db50b9.function_name
   sensitive = false
 }
 
 
-output "aws_lambda_hello_kitty_harsh_function_function_url" {
+output "aws_lambda_hello_kitty_harsh_anand_19_function_function_url" {
   value = module.appcd_477ae9b8-2fbb-5293-b835-eedd87db50b9.function_url
   sensitive = false
 }
 
 
-output "aws_lambda_hello_kitty_harsh_function_invoke_arn" {
+output "aws_lambda_hello_kitty_harsh_anand_19_function_invoke_arn" {
   value = module.appcd_477ae9b8-2fbb-5293-b835-eedd87db50b9.invoke_arn
   sensitive = false
 }
 
 
-output "aws_iam_role_hello_kitty_harsh_role_arn" {
+output "aws_iam_role_hello_kitty_harsh_anand_19_role_arn" {
   value = module.appcd_2fc706f9-6176-58c1-862d-78de66dfc1ea.arn
   sensitive = false
 }
 
 
-output "aws_iam_role_hello_kitty_harsh_role_name" {
+output "aws_iam_role_hello_kitty_harsh_anand_19_role_name" {
   value = module.appcd_2fc706f9-6176-58c1-862d-78de66dfc1ea.name
   sensitive = false
 }
 
 
-output "aws_cloudwatch_log_group_aws_lambda_hello_kitty_harsh_function_arn" {
+output "aws_cloudwatch_log_group_aws_lambda_hello_kitty_harsh_anand_19_function_arn" {
   value = module.appcd_65b99755-8957-522f-9ed4-1242d9ecbad4.arn
   sensitive = false
 }
 
 
-output "aws_cloudwatch_log_group_aws_lambda_hello_kitty_harsh_function_name" {
+output "aws_cloudwatch_log_group_aws_lambda_hello_kitty_harsh_anand_19_function_name" {
   value = module.appcd_65b99755-8957-522f-9ed4-1242d9ecbad4.name
   sensitive = false
 }
