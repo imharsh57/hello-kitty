@@ -26,7 +26,7 @@
       "create_function_url": true,
       "description": null,
       "environment_variables": {
-        "IMAGES_BUCKET": "harsh"
+        "IMAGES_BUCKET": "harsh-anand-19"
       },
       "event_source_arn": null,
       "event_source_mapping": [],
@@ -60,7 +60,7 @@
     },
     "appcd_c6346a43-88b3-5c37-8fe8-a0c30e9b850b": {
       "block_public_access": true,
-      "bucket_name": "harsh",
+      "bucket_name": "harsh-anand-19",
       "bucket_policy": "",
       "enable_versioning": true,
       "enable_website_configuration": false,

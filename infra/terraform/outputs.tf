@@ -47,25 +47,25 @@ output "aws_cloudwatch_log_group_aws_lambda_hello_kitty_harsh_function_name" {
 }
 
 
-output "aws_s3_harsh_arn" {
+output "aws_s3_harsh_anand_19_arn" {
   value = module.appcd_c6346a43-88b3-5c37-8fe8-a0c30e9b850b.arn
   sensitive = false
 }
 
 
-output "aws_s3_harsh_bucket_name" {
+output "aws_s3_harsh_anand_19_bucket_name" {
   value = module.appcd_c6346a43-88b3-5c37-8fe8-a0c30e9b850b.bucket_name
   sensitive = false
 }
 
 
-output "aws_s3_harsh_bucket_website_endpoint" {
+output "aws_s3_harsh_anand_19_bucket_website_endpoint" {
   value = module.appcd_c6346a43-88b3-5c37-8fe8-a0c30e9b850b.bucket_website_endpoint
   sensitive = false
 }
 
 
-output "aws_s3_harsh_kms_arn" {
+output "aws_s3_harsh_anand_19_kms_arn" {
   value = module.appcd_c6346a43-88b3-5c37-8fe8-a0c30e9b850b.kms_arn
   sensitive = false
 }
