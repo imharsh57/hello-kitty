@@ -12,7 +12,7 @@
       "description": null,
       "force_detach_policies": true,
       "inline_policy": [],
-      "name": "hello-kitty-harsh-role",
+      "name": "hello-kitty-harsh-anand-19-role",
       "source": "./modules/aws_iam_role",
       "tags": {
         "appstack": "hello-kitty-harsh",
@@ -31,7 +31,7 @@
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": "",
-      "function_name": "hello-kitty-harsh-function",
+      "function_name": "hello-kitty-harsh-anand-19-function",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_65b99755-8957-522f-9ed4-1242d9ecbad4.name}",
@@ -50,7 +50,7 @@
       "timeout": 3
     },
     "appcd_65b99755-8957-522f-9ed4-1242d9ecbad4": {
-      "name": "/aws/lambda/hello-kitty-harsh-function",
+      "name": "/aws/lambda/hello-kitty-harsh-anand-19-function",
       "retention_in_days": 7,
       "source": "./modules/aws_cloudwatch_log_group",
       "tags": {
